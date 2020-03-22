@@ -1,2 +1,2 @@
 # NYC-Airbnb-Data-Analysis
-![NYCImage](NYC Image.jpg)
+![NYCImage](https://github.com/hashneetk/NYC-Airbnb-Data-Analysis/master/NYC Image.jpg)
