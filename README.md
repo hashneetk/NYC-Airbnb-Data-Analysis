@@ -20,7 +20,9 @@ This dataset provides the details of the listings of different kinds of accomoda
 | Technical_report | Report for the technical team |
 
 <br/> 
+
 **Author**<br/>
+
 Hashneet Kaur
 
 
