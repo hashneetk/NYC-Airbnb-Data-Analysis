@@ -1,7 +1,7 @@
 # NYC-Airbnb-Data-Analysis
 **Airbnb Price Prediction for different areas in NYC.**<br/>
 <br/>
-![NYCImage](https://github.com/hashneetk/NYC-Airbnb-Data-Analysis/blob/master/NYCImage.jpg)<br/><br/>
+![NYCImage](https://github.com/hashneetk/NYC-Airbnb-Data-Analysis/blob/master/NYC-city.jpg)<br/><br/>
 **Project Description**<br/><br/>
 This is a repository for my final class project, Introduction to Data Science at UCLA Extension.
 Airbnb is a trusted online marketplace for people to list, discover, and book unique accommodations and experiences around the world. Since it's launch in 2008, Airbnb has become world's largest community driven hospitality company offering homes & experiences. Be it the analysis of the data for security purposes or to drive more sales, Airbnb has millions of tons of data to analyse. 
